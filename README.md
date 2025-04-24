@@ -13,12 +13,12 @@ Welcome to the **Wanderlust-UI** repository! This project features a clean and m
 
 1. Clone the repo to your local machine.
     ```bash
-    git clone https://github.com/your-username/Wanderlust-UI.git
+    git clone https://github.com/your-username/Wanderlust-Travel-App-Flutter.git
     ```
 
 2. Navigate to the project directory.
     ```bash
-    cd Wanderlust-UI
+    cd Wanderlust-Travel-App-Flutter
     ```
 
 3. Install the dependencies:
